@@ -1,0 +1,483 @@
+Agents initialized. Memory contents:
+Agent0: {}
+Agent1: {}
+Agent2: {}
+
+Agent0 replied to the pre-questionnaire. Memory contents:
+Agent0: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 85\nQ2: 20"]
+}
+Agent1: {}
+Agent2: {}
+
+Agent1 replied to the pre-questionnaire. Memory contents:
+Agent0: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 85\nQ2: 20"]
+}
+Agent1: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 0\nQ2: 100"]
+}
+Agent2: {}
+
+Agent2 replied to the pre-questionnaire. Memory contents:
+Agent0: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 85\nQ2: 20"]
+}
+Agent1: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 0\nQ2: 100"]
+}
+Agent2: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 60\nQ2: 65"]
+}
+
+Agent0 writes first message. Memory contents:
+Agent0: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 85\nQ2: 20"],
+  1: ["""
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.
+    Please share your views on climate change with each other.
+    Limit your words to 50.
+    Every time you respond, respond with <name>:.
+    """,
+    "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling."]
+}
+Agent1: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 0\nQ2: 100"]
+}
+Agent2: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 60\nQ2: 65"]
+}
+
+Agent1 writes first message. Memory contents:
+Agent0: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 85\nQ2: 20"],
+  1: ["""
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.
+    Please share your views on climate change with each other.
+    Limit your words to 50.
+    Every time you respond, respond with <name>:.
+    """,
+    "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling."]
+}
+Agent1: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 0\nQ2: 100"],
+  1: ["""
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.
+    Please share your views on climate change with each other.
+    Limit your words to 50.
+    Every time you respond, respond with <name>:.
+    """,
+    "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling.",
+    "Agent1: I couldn't agree more that the climate is changing, and it's crucial we act decisively! We must embrace bold policies to transition to renewable energy and protect our planet for future generations. It's not just about virtue, it's about survival!"]
+}
+Agent2: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 60\nQ2: 65"]
+}
+
+Agent0 writes second message. Memory contents:
+Agent0: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 85\nQ2: 20"],
+  1: ["""
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.
+    Please share your views on climate change with each other.
+    Limit your words to 50.
+    Every time you respond, respond with <name>:.
+    """,
+    "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling.",
+    "Agent1: I couldn't agree more that the climate is changing, and it's crucial we act decisively! We must embrace bold policies to transition to renewable energy and protect our planet for future generations. It's not just about virtue, it's about survival!",
+    "Agent0: The survival rhetoric is overblown. Let's focus on innovation, not regulation, to address climate concerns. Regulations kill jobs and stifle progress. A strong economy can better adapt to changes."]
+}
+Agent1: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 0\nQ2: 100"],
+  1: ["""
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.
+    Please share your views on climate change with each other.
+    Limit your words to 50.
+    Every time you respond, respond with <name>:.
+    """,
+    "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling.",
+    "Agent1: I couldn't agree more that the climate is changing, and it's crucial we act decisively! We must embrace bold policies to transition to renewable energy and protect our planet for future generations. It's not just about virtue, it's about survival!"]
+}
+Agent2: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 60\nQ2: 65"]
+}
+
+Agent1 writes second message. Memory contents:
+Agent0: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 85\nQ2: 20"],
+  1: ["""
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.
+    Please share your views on climate change with each other.
+    Limit your words to 50.
+    Every time you respond, respond with <name>:.
+    """,
+    "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling.",
+    "Agent1: I couldn't agree more that the climate is changing, and it's crucial we act decisively! We must embrace bold policies to transition to renewable energy and protect our planet for future generations. It's not just about virtue, it's about survival!",
+    "Agent0: The survival rhetoric is overblown. Let's focus on innovation, not regulation, to address climate concerns. Regulations kill jobs and stifle progress. A strong economy can better adapt to changes."]
+}
+Agent1: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 0\nQ2: 100"],
+  1: ["""
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.
+    Please share your views on climate change with each other.
+    Limit your words to 50.
+    Every time you respond, respond with <name>:.
+    """,
+    "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling.",
+    "Agent1: I couldn't agree more that the climate is changing, and it's crucial we act decisively! We must embrace bold policies to transition to renewable energy and protect our planet for future generations. It's not just about virtue, it's about survival!",
+    "Agent0: The survival rhetoric is overblown. Let's focus on innovation, not regulation, to address climate concerns. Regulations kill jobs and stifle progress. A strong economy can better adapt to changes.",
+    "Agent1: I respectfully disagree. We need strong regulations to curb emissions and incentivize green technologies. The cost of inaction far outweighs the economic impact of these policies. We must prioritize our planet's health."]
+}
+Agent2: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 60\nQ2: 65"]
+}
+
+All agents observe the full conversation. Memory contents:
+Agent0: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 85\nQ2: 20"],
+  1: ["""
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.
+    Please share your views on climate change with each other.
+    Limit your words to 50.
+    Every time you respond, respond with <name>:.
+    """,
+    "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling.",
+    "Agent1: I couldn't agree more that the climate is changing, and it's crucial we act decisively! We must embrace bold policies to transition to renewable energy and protect our planet for future generations. It's not just about virtue, it's about survival!",
+    "Agent0: The survival rhetoric is overblown. Let's focus on innovation, not regulation, to address climate concerns. Regulations kill jobs and stifle progress. A strong economy can better adapt to changes.",
+    "Agent1: I respectfully disagree. We need strong regulations to curb emissions and incentivize green technologies. The cost of inaction far outweighs the economic impact of these policies. We must prioritize our planet's health."]
+}
+Agent1: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 0\nQ2: 100"],
+  1: ["""
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.
+    Please share your views on climate change with each other.
+    Limit your words to 50.
+    Every time you respond, respond with <name>:.
+    """,
+    "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling.",
+    "Agent1: I couldn't agree more that the climate is changing, and it's crucial we act decisively! We must embrace bold policies to transition to renewable energy and protect our planet for future generations. It's not just about virtue, it's about survival!",
+    "Agent0: The survival rhetoric is overblown. Let's focus on innovation, not regulation, to address climate concerns. Regulations kill jobs and stifle progress. A strong economy can better adapt to changes.",
+    "Agent1: I respectfully disagree. We need strong regulations to curb emissions and incentivize green technologies. The cost of inaction far outweighs the economic impact of these policies. We must prioritize our planet's health."]
+}
+Agent2: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 60\nQ2: 65"],
+  1: ["""
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.
+    Please share your views on climate change with each other.
+    Limit your words to 50.
+    Every time you respond, respond with <name>:.
+    """,
+    "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling.",
+    "Agent1: I couldn't agree more that the climate is changing, and it's crucial we act decisively! We must embrace bold policies to transition to renewable energy and protect our planet for future generations. It's not just about virtue, it's about survival!",
+    "Agent0: The survival rhetoric is overblown. Let's focus on innovation, not regulation, to address climate concerns. Regulations kill jobs and stifle progress. A strong economy can better adapt to changes.",
+    "Agent1: I respectfully disagree. We need strong regulations to curb emissions and incentivize green technologies. The cost of inaction far outweighs the economic impact of these policies. We must prioritize our planet's health."]
+}
+
+Agent0 replied to the post-questionnaire. Memory contents:
+Agent0: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 85\nQ2: 20"],
+  1: ["""
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.
+    Please share your views on climate change with each other.
+    Limit your words to 50.
+    Every time you respond, respond with <name>:.
+    """,
+    "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling.",
+    "Agent1: I couldn't agree more that the climate is changing, and it's crucial we act decisively! We must embrace bold policies to transition to renewable energy and protect our planet for future generations. It's not just about virtue, it's about survival!",
+    "Agent0: The survival rhetoric is overblown. Let's focus on innovation, not regulation, to address climate concerns. Regulations kill jobs and stifle progress. A strong economy can better adapt to changes.",
+    "Agent1: I respectfully disagree. We need strong regulations to curb emissions and incentivize green technologies. The cost of inaction far outweighs the economic impact of these policies. We must prioritize our planet's health."],
+2: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 80\nQ2: 15"]
+}
+Agent1: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 0\nQ2: 100"],
+  1: ["""
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.
+    Please share your views on climate change with each other.
+    Limit your words to 50.
+    Every time you respond, respond with <name>:.
+    """,
+    "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling.",
+    "Agent1: I couldn't agree more that the climate is changing, and it's crucial we act decisively! We must embrace bold policies to transition to renewable energy and protect our planet for future generations. It's not just about virtue, it's about survival!",
+    "Agent0: The survival rhetoric is overblown. Let's focus on innovation, not regulation, to address climate concerns. Regulations kill jobs and stifle progress. A strong economy can better adapt to changes.",
+    "Agent1: I respectfully disagree. We need strong regulations to curb emissions and incentivize green technologies. The cost of inaction far outweighs the economic impact of these policies. We must prioritize our planet's health."]
+}
+Agent2: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 60\nQ2: 65"],
+  1: ["""
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.
+    Please share your views on climate change with each other.
+    Limit your words to 50.
+    Every time you respond, respond with <name>:.
+    """,
+    "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling.",
+    "Agent1: I couldn't agree more that the climate is changing, and it's crucial we act decisively! We must embrace bold policies to transition to renewable energy and protect our planet for future generations. It's not just about virtue, it's about survival!",
+    "Agent0: The survival rhetoric is overblown. Let's focus on innovation, not regulation, to address climate concerns. Regulations kill jobs and stifle progress. A strong economy can better adapt to changes.",
+    "Agent1: I respectfully disagree. We need strong regulations to curb emissions and incentivize green technologies. The cost of inaction far outweighs the economic impact of these policies. We must prioritize our planet's health."]
+}
+
+Agent1 replied to the post-questionnaire. Memory contents:
+Agent0: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 85\nQ2: 20"],
+  1: ["""
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.
+    Please share your views on climate change with each other.
+    Limit your words to 50.
+    Every time you respond, respond with <name>:.
+    """,
+    "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling.",
+    "Agent1: I couldn't agree more that the climate is changing, and it's crucial we act decisively! We must embrace bold policies to transition to renewable energy and protect our planet for future generations. It's not just about virtue, it's about survival!",
+    "Agent0: The survival rhetoric is overblown. Let's focus on innovation, not regulation, to address climate concerns. Regulations kill jobs and stifle progress. A strong economy can better adapt to changes.",
+    "Agent1: I respectfully disagree. We need strong regulations to curb emissions and incentivize green technologies. The cost of inaction far outweighs the economic impact of these policies. We must prioritize our planet's health."],
+2: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 80\nQ2: 15"]
+}
+Agent1: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 0\nQ2: 100"],
+  1: ["""
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.
+    Please share your views on climate change with each other.
+    Limit your words to 50.
+    Every time you respond, respond with <name>:.
+    """,
+    "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling.",
+    "Agent1: I couldn't agree more that the climate is changing, and it's crucial we act decisively! We must embrace bold policies to transition to renewable energy and protect our planet for future generations. It's not just about virtue, it's about survival!",
+    "Agent0: The survival rhetoric is overblown. Let's focus on innovation, not regulation, to address climate concerns. Regulations kill jobs and stifle progress. A strong economy can better adapt to changes.",
+    "Agent1: I respectfully disagree. We need strong regulations to curb emissions and incentivize green technologies. The cost of inaction far outweighs the economic impact of these policies. We must prioritize our planet's health."]
+2: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 10\nQ2: 100"]
+}
+Agent2: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 60\nQ2: 65"],
+  1: ["""
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.
+    Please share your views on climate change with each other.
+    Limit your words to 50.
+    Every time you respond, respond with <name>:.
+    """,
+    "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling.",
+    "Agent1: I couldn't agree more that the climate is changing, and it's crucial we act decisively! We must embrace bold policies to transition to renewable energy and protect our planet for future generations. It's not just about virtue, it's about survival!",
+    "Agent0: The survival rhetoric is overblown. Let's focus on innovation, not regulation, to address climate concerns. Regulations kill jobs and stifle progress. A strong economy can better adapt to changes.",
+    "Agent1: I respectfully disagree. We need strong regulations to curb emissions and incentivize green technologies. The cost of inaction far outweighs the economic impact of these policies. We must prioritize our planet's health."]
+}
+
+Agent2 replied to the post-questionnaire. Memory contents:
+Agent0: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 85\nQ2: 20"],
+  1: ["""
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.
+    Please share your views on climate change with each other.
+    Limit your words to 50.
+    Every time you respond, respond with <name>:.
+    """,
+    "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling.",
+    "Agent1: I couldn't agree more that the climate is changing, and it's crucial we act decisively! We must embrace bold policies to transition to renewable energy and protect our planet for future generations. It's not just about virtue, it's about survival!",
+    "Agent0: The survival rhetoric is overblown. Let's focus on innovation, not regulation, to address climate concerns. Regulations kill jobs and stifle progress. A strong economy can better adapt to changes.",
+    "Agent1: I respectfully disagree. We need strong regulations to curb emissions and incentivize green technologies. The cost of inaction far outweighs the economic impact of these policies. We must prioritize our planet's health."],
+2: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 80\nQ2: 15"]
+}
+Agent1: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 0\nQ2: 100"],
+  1: ["""
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.
+    Please share your views on climate change with each other.
+    Limit your words to 50.
+    Every time you respond, respond with <name>:.
+    """,
+    "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling.",
+    "Agent1: I couldn't agree more that the climate is changing, and it's crucial we act decisively! We must embrace bold policies to transition to renewable energy and protect our planet for future generations. It's not just about virtue, it's about survival!",
+    "Agent0: The survival rhetoric is overblown. Let's focus on innovation, not regulation, to address climate concerns. Regulations kill jobs and stifle progress. A strong economy can better adapt to changes.",
+    "Agent1: I respectfully disagree. We need strong regulations to curb emissions and incentivize green technologies. The cost of inaction far outweighs the economic impact of these policies. We must prioritize our planet's health."]
+2: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 10\nQ2: 100"]
+}
+Agent2: {
+  0: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 60\nQ2: 65"],
+  1: ["""
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.
+    Please share your views on climate change with each other.
+    Limit your words to 50.
+    Every time you respond, respond with <name>:.
+    """,
+    "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling.",
+    "Agent1: I couldn't agree more that the climate is changing, and it's crucial we act decisively! We must embrace bold policies to transition to renewable energy and protect our planet for future generations. It's not just about virtue, it's about survival!",
+    "Agent0: The survival rhetoric is overblown. Let's focus on innovation, not regulation, to address climate concerns. Regulations kill jobs and stifle progress. A strong economy can better adapt to changes.",
+    "Agent1: I respectfully disagree. We need strong regulations to curb emissions and incentivize green technologies. The cost of inaction far outweighs the economic impact of these policies. We must prioritize our planet's health."],
+2: ["""
+    Q1. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Republicans across the country?
+    Q2. On a scale from 0 to 100, where 0 means you feel very cold or unfavorable, 50 that you do not feel particularly warm or cold toward the group and, 100 means you feel very warm or favorable, how do you feel about Democrats across the country?
+    Reply to the two questions following the format <question identifier>: <value>. Just give the answer.
+    """,
+    "Q1: 55\nQ2: 70"]
+}
